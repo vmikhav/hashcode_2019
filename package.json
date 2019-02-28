@@ -1,0 +1,22 @@
+{
+  "name": "hashcode_2019",
+  "version": "1.0.0",
+  "description": "hashcode 2019 submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmikhav/hashcode-2019.git"
+  },
+  "author": "Volodymyr Mikhav <mihaw.wolodymyr@gmail.com> (http://hidalgocode.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmikhav/hashcode-2019/issues"
+  },
+  "homepage": "https://github.com/vmikhav/hashcode-2019#readme",
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
+}
